@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>Luis Henrique</title>
+        <meta name="author" content="Luis Henrique">
+        <meta charset="UTF-8">
+        <meta name="keywords" content="trabalho html">
+    </head>
+	<body>
+    	<img src="Jamal na festa.jpg" alt="Jamal na festa">
+        <img src="https://www.melhoresfilmes.com.br/dimg/?w=165&amp;h=220&amp;mode=crop&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Factors%2F33843.jpg" alt="Jamal de óculos">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dev_Patel_%2829870651654%29.jpg/250px-Dev_Patel_%2829870651654%29.jpg" alt="Jamal mais velho">
+        
+        
+
+	</body>
+</html>

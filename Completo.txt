@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>Luis Henrique</title>
+        <meta name="author" content="Luis Henrique">
+        <meta charset="UTF-8">
+        <meta name="keywords" content="trabalho html">
+    </head>
+
+	<body>
+
+        <h1>Primeira aula de html</h1>
+		<p>A aula foi bem divertida, para quem nunca tinha tido contado com a programação foi fácil de entender.</p>
+        <h1>Saudações meu povo</h1>
+		<p>Saudação para todos que lerem sua página.</p>
+        <h1>Espaço CM1</h1>
+		<p>O CM1 tem um espaço bem grande, com espaços para interações dos alunos.</p>
+        <h1>Sala de aula online</h1>
+        <p>Apesar da conexão não ser da melhores, é muito mais fácil de fazer as aulas praticas</p>
+        <h1>Colegas presentes</h1>
+        <p>Rafael Cavalcante.</p>
+        <h3>Batatinha quando nasce.</h3>
+        <p>Batatinha quando nasce espalha a rama pelo chão.</p>
+        <p>Menininha quando dorme põe a mão no coração.</p>
+        <p>Sou pequenininha do tamanho de um botão,</p>
+        <p>Carrego papai no bolso e mamãe no coração.</p>
+        <p>O bolso furou e o papai caiu no chão,</p>
+        <p>Mamãe que é mais querida ficou no coração.</p>
+        <h3>Meus pais</h3>
+        <ul>
+        	<li>Dalva Candida</li>
+            <li>Edmilson de Araújo</li>
+        </ul>
+        <h3>Não tenho irmãos</h3>
+        <h3>Cores favoritas</h3>
+       	<ol>
+        	<li>Preto</li>
+            <li>Branco</li>
+            <li>Cinza</li>
+        </ol>
+        <h3>E-mail</h3>
+        <p>luishenri60@gmail.com<p>
+</body>
+</html>

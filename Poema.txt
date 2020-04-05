@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>Poema</title>
+        <meta name="author" content="Luis Henrique">
+        <meta charset="UTF-8">
+        <meta name="keywords" content="batatinha quando nasce">
+	</head>
+	<body>
+
+		<h3>Batatinha quando nasce.</h3>
+        <p>Batatinha quando nasce espalha a rama pelo chão.</p>
+        <p>Menininha quando dorme põe a mão no coração.	</p>
+        <p>Sou pequenininha do tamanho de um botão,</p>
+        <p>Carrego papai no bolso e mamãe no coração.</p>
+        <p>O bolso furou e o papai caiu no chão,</p>
+        <p>Mamãe que é mais querida ficou no coração.</p>
+
+	</body>
+</html>

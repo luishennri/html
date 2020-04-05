@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>Listas</title>
+        <meta name="author" content="Luis Henrique">
+        <meta charset="UTF-8">
+        <meta name="keywords" content="Listas">		</head>
+	<body>
+
+  		<h3>Meus pais</h3>
+        <ul>
+        	<li>Dalva Candida</li>
+            <li>Edmilson de Araújo</li>
+        </ul>
+        <h3>Não tenho irmãos</h3>
+        <h3>Cores favoritas</h3>	
+       	<ol>
+        	<li>Preto</li>
+            <li>Branco</li>
+            <li>Cinza</li>
+        </ol>
+
+	</body>
+</html>

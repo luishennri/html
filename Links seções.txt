@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>Links</title>
+        <meta name="author" content="Luis Henrique">
+        <meta charset="UTF-8">
+        <meta name="keywords" content="links">
+    </head>
+
+	<body>
+    	<ul>
+    		<li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFCMRQ37SE"target="_blank" > Notícias </a>
+            </li>
+        	<li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFD6KJ437O"target="_blank" > Poema </a>
+            </li>
+            <li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFEFOFWNIJ"target="_blank" > Listas </a>
+            </li>
+            <li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFFDMQT43U"target="_blank" > E-mail </a>
+            </li>
+            <li>
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGBH7A8JX5"target="_blank" > Imagens</a>
+            </li>
+            <li>
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGBH7A8JX5"target="_blank" > Formulário</a>
+            </li>
+            </ul>
+            <nav>
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFCMRQ37SE"target="_blank" > Notícias </a>|
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFD6KJ437O"target="_blank" > Poema </a>|
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFEFOFWNIJ"target="_blank" > Listas </a>|
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFFDMQT43U"target="_blank" > E-mail </a>|
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGBH7A8JX5"target="_blank" > Imagens</a>|
+            <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJG0BKHH8KK"target="_blank" > Formulário</a>|
+            </nav>
+</body>
+</html>
